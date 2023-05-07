@@ -10,7 +10,7 @@ Various NLP methods like cosine similarity sparse matrix stemming stop words rem
 :heavy_check_mark: Powerful Recommendation for movies;\
 :heavy_check_mark: Clean UI;
 
-##:books: Datasets ##
+## :books: Datasets ##
 The datasets for the project was taken from this link:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
 
@@ -22,6 +22,6 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credit
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
-:arrow_forward: Jupyter Notebook;\
-:arrow_forward: Python;\
-:arrow_forward: Steamlit;\
+:arrow_forward: Jupyter Notebook\
+:arrow_forward: Python\
+:arrow_forward: Steamlit\
