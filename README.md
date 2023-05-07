@@ -1,17 +1,17 @@
 # Movie-Recommendation-System
 
 ## :dart: About ##
-This recommendation system is a content-based recommendation system where various factors like the description of the movie the director who directed it the year the cast and so forth are taken into consideration and according to it, it gives the top 10 similar movies to the one you choose.
+This recommendation system is a content-based recommendation system where various factors like the description of the movie, the director who directed it, the year, the cast, and so forth are taken into consideration and according to it, it gives the top 10 similar movies to the one you choose.
 Various NLP methods like cosine similarity sparse matrix stemming stop words removal are used in this recommendation system
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Personal Watchlist;\
-:heavy_check_mark: Powerful Recommendation for movies;\
-:heavy_check_mark: Clean UI;
+:heavy_check_mark: Personal Watchlist\
+:heavy_check_mark: Powerful Recommendation for movies\
+:heavy_check_mark: Clean UI
 
 ## :books: Datasets ##
-The datasets for the project was taken from this link:
+The datasets for the project were taken from this link:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
 
 ## :camera: Screenshot ##
@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credit
 
 ## :rocket: Technologies ##
 
-The following tools were used in this project:
+The following tools were used in this project: \
 :arrow_forward: Jupyter Notebook\
 :arrow_forward: Python\
 :arrow_forward: Steamlit\
