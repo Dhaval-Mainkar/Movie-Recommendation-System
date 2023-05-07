@@ -1,2 +1,2 @@
-pickle
+pickle5
 streamlit>=1.11.1
