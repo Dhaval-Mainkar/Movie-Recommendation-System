@@ -14,7 +14,7 @@ Various NLP methods like cosine similarity sparse matrix stemming stop words rem
 The datasets for the project were taken from this link:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
 
-## :camera: Screenshot ##
+## :camera: Screenshots ##
 ![Screenshot (61)](https://user-images.githubusercontent.com/53887636/236693002-6dc59bad-6dcd-470b-9e3b-20011b4b8ebf.png)
 
 ![Screenshot (62)](https://user-images.githubusercontent.com/53887636/236693025-c7f3f86d-a544-4a83-8453-a1ff6ca8c91c.png)
